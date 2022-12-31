@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "69befd54861675f046a53f5a58c6b2cf",
+    "content-hash": "f331e058d92cfa4b234a567f87298092",
     "packages": [
         {
             "name": "bepsvpt/secure-headers",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/bepsvpt/secure-headers.git",
-                "reference": "30311ae3e82eedad87107c7551451d2e604377da"
+                "reference": "3b1a9844cb7bb9c080ec22eab99a5b289b0a31c7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/bepsvpt/secure-headers/zipball/30311ae3e82eedad87107c7551451d2e604377da",
-                "reference": "30311ae3e82eedad87107c7551451d2e604377da",
+                "url": "https://api.github.com/repos/bepsvpt/secure-headers/zipball/3b1a9844cb7bb9c080ec22eab99a5b289b0a31c7",
+                "reference": "3b1a9844cb7bb9c080ec22eab99a5b289b0a31c7",
                 "shasum": ""
             },
             "require": {
@@ -83,84 +83,7 @@
                     "type": "open_collective"
                 }
             ],
-            "time": "2022-12-31T08:45:49+00:00"
-        },
-        {
-            "name": "catfan/medoo",
-            "version": "dev-master",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/catfan/Medoo.git",
-                "reference": "74be58f80d330d1075ef3bfd0fb3d057349597ae"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/catfan/Medoo/zipball/74be58f80d330d1075ef3bfd0fb3d057349597ae",
-                "reference": "74be58f80d330d1075ef3bfd0fb3d057349597ae",
-                "shasum": ""
-            },
-            "require": {
-                "ext-pdo": "*",
-                "php": ">=7.3"
-            },
-            "require-dev": {
-                "phpunit/phpunit": "^9.0"
-            },
-            "suggest": {
-                "ext-pdo_dblib": "For MSSQL or Sybase database on Linux/UNIX platform",
-                "ext-pdo_mysql": "For MySQL or MariaDB database",
-                "ext-pdo_oci": "For Oracle database",
-                "ext-pdo_pqsql": "For PostgreSQL database",
-                "ext-pdo_sqlite": "For SQLite database",
-                "ext-pdo_sqlsrv": "For MSSQL database on both Window/Liunx platform"
-            },
-            "default-branch": true,
-            "type": "framework",
-            "autoload": {
-                "psr-4": {
-                    "Medoo\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Angel Lai",
-                    "email": "angel@medoo.in"
-                }
-            ],
-            "description": "The lightweight PHP database framework to accelerate development",
-            "homepage": "https://medoo.in",
-            "keywords": [
-                "database",
-                "database library",
-                "lightweight",
-                "mariadb",
-                "mssql",
-                "mysql",
-                "oracle",
-                "php framework",
-                "postgresql",
-                "sql",
-                "sqlite"
-            ],
-            "support": {
-                "issues": "https://github.com/catfan/Medoo/issues",
-                "source": "https://github.com/catfan/Medoo"
-            },
-            "funding": [
-                {
-                    "url": "https://paypal.me/AngelaonLai",
-                    "type": "custom"
-                },
-                {
-                    "url": "https://opencollective.com/medoo",
-                    "type": "open_collective"
-                }
-            ],
-            "time": "2022-07-02T04:27:50+00:00"
+            "time": "2022-12-31T09:10:56+00:00"
         },
         {
             "name": "components/font-awesome",
@@ -2890,7 +2813,6 @@
     "stability-flags": {
         "monolog/monolog": 20,
         "symfony/dotenv": 20,
-        "catfan/medoo": 20,
         "phpseclib/phpseclib": 20,
         "bepsvpt/secure-headers": 20,
         "twbs/bootstrap": 20,

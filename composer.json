@@ -4,7 +4,6 @@
     "require": {
         "monolog/monolog": "2.x-dev",
         "symfony/dotenv": "5.4.x-dev",
-        "catfan/medoo": "dev-master",
         "phpseclib/phpseclib": "3.0.x-dev",
         "bepsvpt/secure-headers": "dev-master",
         "twbs/bootstrap": "dev-main",
